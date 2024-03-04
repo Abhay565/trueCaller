@@ -32,6 +32,14 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	  <key>NSCameraUsageDescription</key>
+  <string>this app required your camera</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+  <string>THis app would like to access your photos</string>
+  <key>NSPhotoLibraryAddUsageDescription</key>
+   <string>THis app would like to access your photos</string>
+<key>NSMicrophoneUsageDescription</key>
+  <string>This app requird your microphone</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
